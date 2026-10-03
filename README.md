@@ -1,1 +1,1 @@
-# MINOR-PROJECT-3
+# MINOR_PROJECT_3_Diabetes_Prediction_Logistic_Regression_Project
